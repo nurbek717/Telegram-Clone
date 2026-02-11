@@ -82,7 +82,7 @@ const HomePage = () => {
 	}
 
 	useEffect(() => {
-		socket.current = io('ws://localhost:5001')
+		socket.current = io(process.env.NEXT_PUBLIC_SOCKET_URL || 'ws://localhost:5001')
 	}, [])
 
 	useEffect(() => {
