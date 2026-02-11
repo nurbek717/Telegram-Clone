@@ -27,3 +27,4 @@ Technologies used in the project:
 *   Authentication: NextAuth with Gmail SMTP
 *   Real-Time Messaging: Socket.IO Zustand for state management
 *   Type Safety: TypeScript
+# Telegram-Clone
