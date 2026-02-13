@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://telegram.sammi.ac](https://telegram.sammi.ac)
+[https://telegram-clone-ruby-eta.vercel.app/)
   
 <h2>🧐 Features</h2>
 
